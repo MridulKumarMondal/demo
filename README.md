@@ -1,5 +1,5 @@
 # demo
 first repo
 <br>
-My name si mridul
+My name is mridul
 hello
